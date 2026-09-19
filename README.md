@@ -31,7 +31,7 @@ Berdasarkan pemrosesan data spasial dan visualisasi metrik demografi tingkat pro
 
 <img width="1570" height="543" alt="pernikahan-indonesia" src="https://github.com/user-attachments/assets/8e2eed2b-2b53-4853-8fb7-a655c2da7ee6" />
 
-###1. Konsentrasi Ekstrem di Pulau Jawa
+### 1. Konsentrasi Ekstrem di Pulau Jawa
 Angka pernikahan tertinggi, yang ditandai dengan warna kuning (> 100 Ribu pernikahan), secara eksklusif berpusat di provinsi-provinsi utama Pulau Jawa, khususnya Jawa Barat, Jawa Tengah, dan Jawa Timur. Hal ini sejalan dengan status Jawa sebagai pusat populasi terbesar di Indonesia. Tingginya angka pembentukan keluarga baru di area ini menjadikannya pasar paling potensial dan padat untuk sektor industri yang menargetkan keluarga muda, seperti perumahan (KPR), ritel barang rumah tangga, dan layanan kesehatan ibu dan anak.
 
 ### 2. Transisi Menengah di Sumatra, Kalimantan, dan Sulawesi (Kategori 10 Ribu - 100 Ribu)
